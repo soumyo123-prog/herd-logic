@@ -1,0 +1,8 @@
+# LLM — OpenAI SDK pointed at OpenRouter's OpenAI-compatible API
+openai>=1.30.0
+
+# Validation — defines the "shape" of agent inputs/outputs
+pydantic>=2.9.0
+
+# Environment variables
+python-dotenv>=1.0.0

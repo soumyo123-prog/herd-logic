@@ -1,0 +1,2 @@
+On Dalal Street, "herd mentality" loses money. But what if the herd was 5 specialized AI agents — a macro strategist, a technical analyst, a sentiment tracker, a risk officer, and a chief strategist — all reasoning independently, then voting together?
+HerdLogic is a zero-cost, multi-agent trading intelligence system for the Indian stock market. You make the final call. The herd gives you the edge.

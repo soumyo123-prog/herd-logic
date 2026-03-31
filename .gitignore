@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env*
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
+
+# Project-specific — architecture docs (confidential) and personal notes
+/architecture/
+/learnings/
