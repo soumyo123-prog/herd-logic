@@ -6,3 +6,14 @@ pydantic>=2.9.0
 
 # Environment variables
 python-dotenv>=1.0.0
+
+# Cache — external TTL store so multiple agent runs share fetched data
+redis>=5.0.0
+
+# Market data — free OHLCV, fundamentals, global markets (Tier 1 provider)
+yfinance>=0.2.40
+pandas>=2.0.0
+
+# Market data — NSE India specifics not covered by yfinance: FII/DII, option chain,
+# bulk deals, delivery %, market status
+nsepython>=2.95

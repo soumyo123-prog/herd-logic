@@ -13,6 +13,7 @@ __pycache__/
 # Claude Code
 .claude/
 
-# Project-specific — architecture docs (confidential) and personal notes
+# Project-specific — architecture docs (confidential), personal notes, internal design specs
 /architecture/
 /learnings/
+/docs/
